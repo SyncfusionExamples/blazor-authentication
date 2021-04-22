@@ -29,6 +29,9 @@ dotnet run
 
 * Copy/paste the localhost link in the browser to launch the application.
 
+## Blog reference
+The detailed information about this is available in the blog, [Easy Steps to Create a Blazor Server-Side App with Authentication](https://www.syncfusion.com/blogs/post/easy-steps-create-a-blazor-server-side-app-with-authentication.aspx)
+
 ## See also
 * [Online examples](https://blazor.syncfusion.com)
 * [Documentation](https://blazor.syncfusion.com/documentation/introduction/)
