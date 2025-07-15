@@ -1,10 +1,11 @@
-# Authenticate a Blazor server application
+# Authenticate a Blazor Web application
 
-This example demonstrates how to authenticate a Blazor server application.
+This example demonstrates how to authenticate a Blazor Web application and integrate Syncfusion Blazor Components within the **AuthorizeView** component.
 
 ## Prerequisites
 
 * Visual Studio 2022
+* .NET9 SDK
 
 ## How to run the project
 
@@ -12,7 +13,3 @@ This example demonstrates how to authenticate a Blazor server application.
 * Open the solution file using the Visual Studio 2022.
 * Restore the NuGet packages by rebuilding the solution.
 * Run the project.
-
-## Blog reference
-
-The detailed information about this is available in the blog, [Easy Steps to Create a Blazor Server-Side App with Authentication](https://www.syncfusion.com/blogs/post/easy-steps-create-a-blazor-server-side-app-with-authentication.aspx)
