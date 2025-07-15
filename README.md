@@ -1,6 +1,6 @@
-# Authenticate a Blazor Web application
+# Blazor Web App with Authentication
 
-This example demonstrates how to authenticate a Blazor Web application and integrate Syncfusion Blazor Components within the **AuthorizeView** component.
+This example demonstrates how to implement authentication in a Blazor Web application and integrate Syncfusion Blazor Components within the **AuthorizeView** component.
 
 ## Prerequisites
 
@@ -9,7 +9,9 @@ This example demonstrates how to authenticate a Blazor Web application and integ
 
 ## How to run the project
 
-* Checkout this project to a location in your disk.
-* Open the solution file using the Visual Studio 2022.
-* Restore the NuGet packages by rebuilding the solution.
-* Run the project.
+* Checkout this project to a location on your disk.
+* Open the solution file using Visual Studio 2022.
+* Restore the NuGet packages by rebuilding the solution or use the CLI command:
+`dotnet restore`
+* Run the project using Visual Studio or the CLI command:
+`dotnet run`
