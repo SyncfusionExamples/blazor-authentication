@@ -1,6 +1,6 @@
 # Blazor Web App with Authentication
 
-This example demonstrates how to implement authentication in a Blazor Web application and integrate Syncfusion Blazor Components within the **AuthorizeView** component.
+This example illustrates the implementation of a secure authentication mechanism in a Blazor Web application, leveraging ASP.NET Core Identity. It further demonstrates how to seamlessly integrate **Syncfusion Blazor Components** within the **AuthorizeView** component to create a role-based or user-specific UI. The AuthorizeView component is utilized to conditionally render content based on the user's authentication state or assigned roles, ensuring that only authorized users can access specific Syncfusion components or features.
 
 ## Prerequisites
 
